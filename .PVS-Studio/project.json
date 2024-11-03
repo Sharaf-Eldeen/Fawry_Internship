@@ -1,0 +1,22 @@
+{
+  "modules": [
+    {
+      "name": "Ecommerce",
+      "path": "d:\\University\\Third Level\\Fawry\\Ecommerce\\",
+      "sources": [
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\App.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Classes\\Cart.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Classes\\CartItem.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Classes\\ExpirableProduct.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Classes\\Product.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Classes\\ShippableProduct.java",
+        "d:\\University\\Third Level\\Fawry\\Ecommerce\\src\\Interfaces\\Ishippable.java"
+      ],
+      "testSources": [],
+      "generatedSources": [],
+      "classpath": [
+        "D:\\University\\Third Level\\Fawry\\Ecommerce\\bin"
+      ]
+    }
+  ]
+}
